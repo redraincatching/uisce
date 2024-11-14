@@ -4,11 +4,12 @@ use std::{
 };
 use std::cmp::Ordering;
 use itertools::Itertools;
+use serde::{Serialize, Deserialize};
 
-#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+#[derive(Serialize, Deserialize, Clone, Copy, Debug, PartialEq, Eq)]
 pub enum Category {Open, Female}
 
-#[derive(Clone, Debug)]
+#[derive(Serialize, Deserialize, Clone, Debug)]
 pub struct Swimmer {
     pub name:       String,
     pub category:   Category,
@@ -47,7 +48,7 @@ impl std::fmt::Display for Swimmer {
 // Vec<T> doesn't implement Display, and we can't edit a type that doesn't exist here
 // so we use newtypes to create a wrapper that we can edit
 // also i feel like a Box or something could have been smarter but anyway
-struct SwimmerVectorWrapper<'a, T: 'a>(Vec<&'a T>);
+pub struct SwimmerVectorWrapper<'a, T: 'a>(Vec<&'a T>);
 impl<'a, T: std::fmt::Display + 'a> std::fmt::Display for SwimmerVectorWrapper<'a, T> {
     fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
         for swimmer in &self.0 {
@@ -89,7 +90,7 @@ pub fn medley(team: Vec<Swimmer>) {
 
 // god this is some ugly code
 // i can definitely do better with Box<Swimmer>
-pub fn mixed_medley(team: &[Swimmer]) {
+pub fn mixed_medley(team: &[Swimmer]) -> Vec<&Swimmer> {
     // split by category
     let female_swimmers = team.iter().filter(|v| v.category == Category::Female);
     let open_swimmers = team.iter().filter(|v| v.category == Category::Open);
@@ -98,7 +99,7 @@ pub fn mixed_medley(team: &[Swimmer]) {
     let female_combinations: Vec<Vec<&Swimmer>> = female_swimmers.into_iter().combinations(2).collect();
     let open_combinations: Vec<Vec<&Swimmer>> = open_swimmers.into_iter().combinations(2).collect();
     
-    let mut fastest: SwimmerVectorWrapper<Swimmer> = SwimmerVectorWrapper(Vec::new());
+    let mut fastest: Vec<&Swimmer> = Vec::new();
     let mut fastest_time: f32 = 9999.0;
     let mut curr_time: f32;
     let mut curr_four: Vec<&Swimmer>;
@@ -119,17 +120,13 @@ pub fn mixed_medley(team: &[Swimmer]) {
 
                 if curr_time < fastest_time {
                     fastest_time = curr_time;
-                    fastest = SwimmerVectorWrapper(p.into_iter().copied().collect_vec());
+                    fastest = p.into_iter().copied().collect_vec();
                 }
             }
         }
     }
 
-    let predicted_mins : u8 = (fastest_time.floor() as u8) / 60;
-    let predicted_secs : u8 = (fastest_time.floor() as u8) - (predicted_mins * 60);
-    let predicted_ms = format!("{:0.2}", fastest_time - fastest_time.floor());
-
-    println!("fastest possible time: {}:{:2}{:.2}\n{}", predicted_mins, predicted_secs, predicted_ms.trim_start_matches('0'), fastest);
+    fastest
 }
 
 pub fn free(team: Vec<Swimmer>) {
@@ -210,7 +207,7 @@ pub fn read_csv(team: &mut Vec<Swimmer>) -> Result<(), Box<dyn Error>> {
 #[cfg(test)]
 mod tests {
     //use super::*;
-    //
+
     //#[test]
     //fn test_relays() {
     //    //let paddy = Swimmer {name: "paddy", category: Category::Open, fly: Some(25.0), back: Some(32.8), brs: Some(36.5), fs: Some(25.3)};
@@ -233,5 +230,35 @@ mod tests {
     //    //team.insert(String::from("caoilfhinn"), caoilfhinn);
     //    //team.insert(String::from("naoise"), naoise);
     //
+    //}
+
+    // TODO: change these prints to asserts, and make a testing copy of that csv file
+    //#[test]
+    //fn test_all_relays() {
+    //    // all swimmers
+    //    let mut team : Vec<Swimmer> = Vec::new();
+    //    let _ = read_csv(&mut team);
+    //
+    //    // i shouldn't need these calls to clone, my method signatures are bad
+    //    println!("women's free relay:");
+    //    free(team.clone().into_iter().filter(|v| v.category == Category::Female).collect_vec());
+    //
+    //    println!("open free relay:");
+    //    free(team.clone().into_iter().filter(|v| v.category == Category::Open).collect_vec());
+    //
+    //    println!("mixed free relay:");
+    //    mixed_free(&team, 2);
+    //
+    //    println!("women's medley relay:");
+    //    medley(team.clone().into_iter().filter(|v| v.category == Category::Female).collect_vec());
+    //
+    //    println!("open medley relay:");
+    //    medley(team.clone().into_iter().filter(|v| v.category == Category::Open).collect_vec());
+    //
+    //    println!("mixed medley relay:");
+    //    mixed_medley(&team);
+    //
+    //    println!("canon:");
+    //    mixed_free(&team, 3);
     //}
 }

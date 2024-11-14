@@ -1,31 +1,47 @@
 use uisce::*;
+use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
-use itertools::Itertools;
+/// this struct holds the app state
+struct AppState {
+    team: Vec<Swimmer>
+}
 
-fn main() {
-    // all swimmers
-    let mut team : Vec<Swimmer> = Vec::new();
+fn initialise_team() -> Vec<Swimmer> {
+    let mut team: Vec<Swimmer> = Vec::new();
     let _ = read_csv(&mut team);
 
-    // i shouldn't need these calls to clone, my method signatures are bad
-    println!("women's free relay:");
-    free(team.clone().into_iter().filter(|v| v.category == Category::Female).collect_vec());
+    team
+}
 
-    println!("open free relay:");
-    free(team.clone().into_iter().filter(|v| v.category == Category::Open).collect_vec());
+#[get("/")]
+async fn show_team(data: web::Data<AppState>) -> impl Responder {
+    HttpResponse::Ok().json(&data.team)
+}
 
-    println!("mixed free relay:");
-    mixed_free(&team, 2);
+#[post("/echo")]
+async fn echo(req_body: String) -> impl Responder {
+    HttpResponse::Ok().body(req_body)
+}
 
-    println!("women's medley relay:");
-    medley(team.clone().into_iter().filter(|v| v.category == Category::Female).collect_vec());
+/// endpoint for mixed medley relay
+/// TODO: generalise relays so that we can use the same function and signature for them all
+#[get("/mixed_medley")]
+async fn return_mixed_medley(data: web::Data<AppState>) -> impl Responder {
+    HttpResponse::Ok().json(mixed_medley(&data.team))
+}
 
-    println!("open medley relay:");
-    medley(team.clone().into_iter().filter(|v| v.category == Category::Open).collect_vec());
-
-    println!("mixed medley relay:");
-    mixed_medley(&team);
-
-    println!("canon:");
-    mixed_free(&team, 3);
+#[actix_web::main]
+async fn main() -> std::io::Result<()> {
+    HttpServer::new(|| {
+        App::new()
+            .app_data(web::Data::new(AppState {
+                team: initialise_team()
+            }))
+            .service(show_team)
+            .service(echo)
+            .service(return_mixed_medley)
+    })
+    .bind(("127.0.0.1", 8080))?
+    .run()
+    .await
 }
