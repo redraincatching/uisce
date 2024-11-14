@@ -1,0 +1,1171 @@
+women's free relay:
+fastest possible time: 2: 2.8
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+
+open free relay:
+fastest possible time: 1:45.0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Jake van de Beek, Open
+50 fly: 30.08  |  50 back: 32.33  |  50 brs: 31.82  |  50 fs: 26.14
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+Stuart Vaughan, Open
+50 fly: 29.75  |  50 back: 30.8  |  50 brs: 33.7  |  50 fs: 26.94
+
+mixed free relay:
+fastest possible time: 1:51.6
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Jake van de Beek, Open
+50 fly: 30.08  |  50 back: 32.33  |  50 brs: 31.82  |  50 fs: 26.14
+
+women's medley relay:
+fastest possible time: 2:16.1
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+
+open medley relay:
+fastest possible time: 1:55.2
+Stuart Vaughan, Open
+50 fly: 29.75  |  50 back: 30.8  |  50 brs: 33.7  |  50 fs: 26.94
+Jake van de Beek, Open
+50 fly: 30.08  |  50 back: 32.33  |  50 brs: 31.82  |  50 fs: 26.14
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+
+mixed medley relay:
+fastest time: 127.58, current time: 134.36
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 127.58, current time: 134.94
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.33, current time: 137.6
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.33, current time: 132.79
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 138.89
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 129.41
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 134.18
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 137.63
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 138.89
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 133.55
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 126.16, current time: 135.75
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 125.23, current time: 129.15
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 125.23, current time: 134.56
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 134.05
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.2
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.79
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 130.94
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 130.63
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 129.81
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.79
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 140.72
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.33
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.43
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.53
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.72
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 140.75
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.43
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.67
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 138.29001
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.27
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.1
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.17
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 138.73999
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 138.33
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.48
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.75
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.35
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.33
+Aisling Dillon, Female
+50 fly: 36.5  |  50 back: 40.34  |  50 brs: 44.5  |  50 fs: 31.62
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 144.67
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 130.38
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 139.96
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 138.6
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 144.67
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 134.51999
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.53
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 130.12
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 140.34
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.01999
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.98
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.57
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.72
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 131.6
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.59
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 139.57
+Aoife O'Connell, Female
+50 fly: 38.99  |  50 back: 38.19  |  50 brs: 47.74  |  50 fs: 31.45
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.48
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 144.7
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 140.62
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.22
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.12
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.7
+Aoife Sweeney, Female
+50 fly: 36.8  |  50 back: 44.29  |  50 brs: 0  |  50 fs: 36.97
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 131.77
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.48
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.34
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.15
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.79
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.38
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 128.53
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 127.399994
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 131.38
+Caoilfhinn Harte, Female
+50 fly: 40.42  |  50 back: 0  |  50 brs: 39.55  |  50 fs: 33.3
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 139.99
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.91
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 131.51001
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.41
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.99
+Dervla Mellin, Female
+50 fly: 0  |  50 back: 39.58  |  50 brs: 0  |  50 fs: 0
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 140.62
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.56
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.22
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 140.37
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.12
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 142.01
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 141.6
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.75
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.7
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.62
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 139.6
+Eilis Ni Bhaoill, Female
+50 fly: 44.47  |  50 back: 44.29  |  50 brs: 47.77  |  50 fs: 35.97
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.08
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.29
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.98
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.93
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 137.51999
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.67
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 134.56
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 131.54
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.51999
+Jillian Thomas, Female
+50 fly: 38.96  |  50 back: 41.15  |  50 brs: 43.69  |  50 fs: 34.16
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.79
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.53
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.12
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 128.27
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.37
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 127.14
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 131.12
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 138.01999
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 133.17
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 135.01
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.04
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 136.01999
+Lillian, Female
+50 fly: 39.35  |  50 back: 41.6  |  50 brs: 44.19  |  50 fs: 34.65
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 134.6
+Maebh Meehan Gray, Female
+50 fly: 0  |  50 back: 41.19  |  50 brs: 0  |  50 fs: 0
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 129.75
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest time: 123.98, current time: 132.6
+Olivia Currie, Female
+50 fly: 32.3  |  50 back: 35.21  |  50 brs: 40.77  |  50 fs: 31.36
+Rebecka, Female
+50 fly: 0  |  50 back: 39.19  |  50 brs: 0  |  50 fs: 33.89
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
+fastest possible time: 2: 3.9
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Stuart Vaughan, Open
+50 fly: 29.75  |  50 back: 30.8  |  50 brs: 33.7  |  50 fs: 26.94
+
+canon:
+fastest possible time: 2:49.6
+Ailbhe Mulhall, Female
+50 fly: 32.12  |  50 back: 37.22  |  50 brs: 41.96  |  50 fs: 29.62
+Kristen, Female
+50 fly: 31.77  |  50 back: 39.96  |  50 brs: 39.29  |  50 fs: 30.73
+Naoise O'Donnell, Female
+50 fly: 32.86  |  50 back: 36.34  |  50 brs: 0  |  50 fs: 31.17
+Eidhne Kennedy, Open
+50 fly: 28.4  |  50 back: 32.02  |  50 brs: 31.79  |  50 fs: 25.18
+Jake van de Beek, Open
+50 fly: 30.08  |  50 back: 32.33  |  50 brs: 31.82  |  50 fs: 26.14
+Paddy Grimes, Open
+50 fly: 27.46  |  50 back: 32.83  |  50 brs: 35.92  |  50 fs: 26.81
+
